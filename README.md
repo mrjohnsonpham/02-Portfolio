@@ -4,7 +4,7 @@
 
 First, you will use notice that I used a Bootstrap CSS Framework to create a mobile responsive portfolio.
 
-* Create the following files files: `index.html`, `portfolio.html` and `contact.html`.
+* Created the following files files: `index.html`, `portfolio.html` and `contact.html`.
 
 * Using Bootstrap, developed my portfolio site with the following items:
 
