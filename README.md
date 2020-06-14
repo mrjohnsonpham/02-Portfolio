@@ -1,6 +1,6 @@
 # 02-Portfolio
 
-# Unit 02 CSS and Bootstrap Homework: Responsive Portfolio
+# Unit 02 Responsive Portfolio
 
 First, you will use notice that I used a Bootstrap CSS Framework to create a mobile responsive portfolio.
 
